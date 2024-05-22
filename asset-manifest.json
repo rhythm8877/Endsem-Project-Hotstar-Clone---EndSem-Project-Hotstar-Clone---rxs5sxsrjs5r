@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Endsem-Project-Hotstar-Clone---EndSem-Project-Hotstar-Clone---rxs5sxsrjs5r/static/css/main.106d8559.css",
+    "main.js": "/Endsem-Project-Hotstar-Clone---EndSem-Project-Hotstar-Clone---rxs5sxsrjs5r/static/js/main.011646bc.js",
+    "index.html": "/Endsem-Project-Hotstar-Clone---EndSem-Project-Hotstar-Clone---rxs5sxsrjs5r/index.html",
+    "main.106d8559.css.map": "/Endsem-Project-Hotstar-Clone---EndSem-Project-Hotstar-Clone---rxs5sxsrjs5r/static/css/main.106d8559.css.map",
+    "main.011646bc.js.map": "/Endsem-Project-Hotstar-Clone---EndSem-Project-Hotstar-Clone---rxs5sxsrjs5r/static/js/main.011646bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106d8559.css",
+    "static/js/main.011646bc.js"
+  ]
+}
